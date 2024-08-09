@@ -5,5 +5,5 @@
 - 🌱 I’m presently learning  C
 - 💬My hobbies are Photography and coding
 
-- ⚡ Fun fact about me :   * love for chicken and trekking*
+- ⚡ Fun fact about me :   * love for rekking*
 
