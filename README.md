@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Mayank Jaiswal </h1>
+<h1 align="center">Mayank Jaiswal </h1>
 <h3 align="center"> Tech enthausiast </h3>
 
-- 🔭 I’m in my first year in B.Tech  course in UPES, Dehradun.
-- 🌱 I’m presently learning  C
-- 💬My hobbies are Photography and coding
+- 🌱 I’m presently learning  C++
+- 💬My hobbies are Photography.
 
-- ⚡ Fun fact about me :   * love for rekking*
+- ⚡ Fun fact about me :   * love for Trekking*
 
